@@ -1,6 +1,6 @@
 #numeric Data type
 
-'''x=103 #int
+x=103 #int
 y=12.6 #float
 z=10+4j #coplex
 print(type(x))
@@ -42,7 +42,7 @@ for i in x:
 
 x=range(1,30,3) #3rd case
 for i in x:
-    print(i)'''
+    print(i)
 
 x=range(5,20,-3)
 for i in x:
